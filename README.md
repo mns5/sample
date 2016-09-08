@@ -1,2 +1,2 @@
 # sample
-my first sample
+My First Sample Application
